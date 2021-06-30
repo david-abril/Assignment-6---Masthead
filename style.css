@@ -1,0 +1,91 @@
+#cart {
+    height: 50px;
+    width: 50px;
+}
+/*
+ul {
+    list-style: none;
+    
+    
+    
+}
+
+li {
+    display: inline-block;
+    margin: 10px 10px;
+    
+    padding-top: 25px;
+   
+}
+*/
+
+nav a{ 
+  float: left;
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 35px 16px;
+  text-decoration: none;
+  font-family: sans-serif;
+  font-size: 12px;
+  font-weight: bold;
+  text-transform: uppercase;
+
+}
+nav{
+    overflow: hidden;
+    background-color: black;
+}
+
+nav a:hover {
+    background-color: blue;
+}
+
+#logobox {
+    height: 90px;
+    width: 90px;
+    background-color: darkred;
+    float: left;
+    margin: 0;
+    text-align: center;
+}
+
+#logobox h1{
+    color: white;
+    font-size: 25px;
+    padding-top: 8px;
+}
+nav input {
+    background-color: white;
+    margin-top: 29px;
+}
+
+#sign-in{
+    float: right;
+}
+
+
+footer {
+    height: 150px;
+    background-color: black;
+    
+}
+
+footer ul {
+    float: left;
+    
+    
+}
+
+footer li{
+    padding: 5px;
+}
+
+footer a {
+  color: white;
+  text-decoration: none;
+  font-family: sans-serif;
+  font-size: 12px;
+  font-weight: bold;
+  text-transform: uppercase;
+}
